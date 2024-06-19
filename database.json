@@ -298,5 +298,50 @@
       "pageCount": 352
     }
 
+  ],
+
+  "Componentes":[
+    {
+      "id": 1,
+      "name": "Procesador AMD RYZEN 5 3600",
+      "marca": "AMD",
+      "status": true,
+      "precio": 360000
+    },
+    {
+      "id": 2,
+      "name": "Procesador Intel Core i5 10400F ",
+      "marca": "Intel",
+      "status": false,
+      "precio": 250000
+    },
+    {
+      "id": 3,
+      "name": "Mother ASUS TUF B450M-PLUS II AM4",
+      "marca": "ASUS",
+      "status": true,
+      "precio": 138000
+    },
+    {
+      "id": 4,
+      "name": "Mother Asrock Z790 PG Lightning",
+      "marca": "Asrock",
+      "status": true,
+      "precio": 480000
+    },
+    {
+      "id": 5,
+      "name": "Memoria Team DDR4 16GB (2x8GB) 3200MHz Night Hawk",
+      "marca": "Team",
+      "status": true,
+      "precio": 160000
+    },
+    {
+      "id": 6,
+      "name": "Memoria Patriot Viper DDR4 16B (2x8GB) 3200MHz Steel ",
+      "marca": "Patriot",
+      "status": false,
+      "precio": 190000
+    }
   ]
 }
