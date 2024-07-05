@@ -62,30 +62,6 @@
       "createdAt": 1615745961000,
       "modifiedAt": 1615976361000,
       "rango": "cliente"
-    },
-    {
-      "firstName": "Yael",
-      "lastName": "Shebia",
-      "username": "Yael1",
-      "password": "Yael1",
-      "email": "yaeli@gmail.com",
-      "status": true,
-      "rango": "cliente",
-      "createdAt": 1720198431531,
-      "modifiedAt": 1720198431531,
-      "id": 4
-    },
-    {
-      "firstName": "Jorge",
-      "lastName": "Escribano",
-      "username": "Jorge1",
-      "email": "jorge@hotmail.com",
-      "password": "Jorge1",
-      "status": true,
-      "rango": "cliente",
-      "createdAt": 1720198613484,
-      "modifiedAt": 1720198613484,
-      "id": 5
     }
   ],
   "products": [
@@ -227,8 +203,8 @@
       "precio": 200,
       "status": true,
       "imagen": "https://app.contabilium.com/files/explorer/49089/Productos-Servicios/concepto-11327402.jpg",
-      "cantidad": 10,
-      "modifiedAt": 1720198651932
+      "cantidad": 7,
+      "modifiedAt": 1720199604163
     },
     {
       "id": 2,
@@ -236,8 +212,8 @@
       "precio": 100,
       "status": true,
       "imagen": "https://fullh4rd.com.ar/img/productos/1/micro-intel-core-i5-10400f-0.jpg",
-      "cantidad": 2,
-      "modifiedAt": 1720198543118
+      "cantidad": 0,
+      "modifiedAt": 1720199063681
     },
     {
       "id": 3,
@@ -245,8 +221,8 @@
       "precio": 50,
       "status": true,
       "imagen": "https://www.heavenimagenes.com/heavencommerce/73789f5f-970d-4319-82d0-77eea979d9b7/images/v2/ASUS/2104211654132224_02_medium.jpg",
-      "cantidad": 4,
-      "modifiedAt": 1720198651932
+      "cantidad": 2,
+      "modifiedAt": 1720199604163
     },
     {
       "id": 4,
@@ -254,8 +230,8 @@
       "precio": 40,
       "status": true,
       "imagen": "https://www.asrock.com/mb/photo/Z790%20PG%20Lightning(M1).png",
-      "cantidad": "4",
-      "modifiedAt": 1720198501334
+      "cantidad": 3,
+      "modifiedAt": 1720199084225
     },
     {
       "id": 5,
