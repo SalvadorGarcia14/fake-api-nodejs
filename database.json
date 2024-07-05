@@ -28,142 +28,40 @@
       "birthday": "1994-03-23",
       "status": true,
       "createdAt": 1609483221000,
-      "modifiedAt": 1609483221000
+      "modifiedAt": 1609483221000,
+      "rango": "admin"
     },
     {
       "id": 2,
-      "firstName": "Alberta",
-      "lastName": "Farncomb",
-      "username": "afarncomb1",
-      "email": "afarncomb1@liveinternet.ru",
-      "password": "FfshsAlZ",
+      "firstName": "Anna",
+      "lastName": "Zak",
+      "username": "annazak12",
+      "email": "annazak12@gmail.com",
+      "password": "annazak12",
       "avatar": "https://robohash.org/accusantiumminimamagni.png?size=50x50&set=set1",
-      "gender": "Male",
+      "gender": "female",
       "phone": "510-449-7332",
       "birthday": "2002-03-11",
-      "status": false,
+      "status": true,
       "createdAt": 1617440961000,
-      "modifiedAt": 1618301961000
+      "modifiedAt": 1719947202658,
+      "rango": "vendedor"
     },
     {
       "id": 3,
-      "firstName": "Kizzie",
-      "lastName": "Shama",
-      "username": "kshama2",
-      "email": "kshama2@prlog.org",
-      "password": "kjU6qK1Bm",
+      "firstName": "Salvador",
+      "lastName": "Garcia",
+      "username": "Salvi1",
+      "email": "salvadorgarciaescribano@gmail.com",
+      "password": "Salvi1",
       "avatar": "https://robohash.org/voluptatemdebitiset.png?size=50x50&set=set1",
       "gender": "Male",
       "phone": "676-983-4977",
       "birthday": "1997-09-29",
-      "status": false,
+      "status": true,
       "createdAt": 1615745961000,
-      "modifiedAt": 1615976361000
-    },
-    {
-      "id": 4,
-      "firstName": "Tremayne",
-      "lastName": "Americi",
-      "username": "tamerici3",
-      "email": "tamerici3@skype.com",
-      "password": "xbNRPGk",
-      "avatar": "https://robohash.org/rerumoccaecatiprovident.png?size=50x50&set=set1",
-      "gender": "Genderfluid",
-      "phone": "548-721-4661",
-      "birthday": "2004-10-01",
-      "status": false,
-      "createdAt": 1610281342000,
-      "modifiedAt": 1619283693000
-    },
-    {
-      "id": 5,
-      "firstName": "Luciana",
-      "lastName": "Fernihough",
-      "username": "lfernihough4",
-      "email": "lfernihough4@oaic.gov.au",
-      "password": "hDuqo8j5TXTl",
-      "avatar": "https://robohash.org/nobisplaceataut.png?size=50x50&set=set1",
-      "gender": "Female",
-      "phone": "597-670-2841",
-      "birthday": "1999-01-30",
-      "status": true,
-      "createdAt": 1614362898000,
-      "modifiedAt": 1615410795000
-    },
-    {
-      "id": 6,
-      "firstName": "Ursuline",
-      "lastName": "Gorrick",
-      "username": "ugorrick5",
-      "email": "ugorrick5@meetup.com",
-      "password": "GH1yLLmJoq",
-      "avatar": "https://robohash.org/voluptatemenimerror.png?size=50x50&set=set1",
-      "gender": "Bigender",
-      "phone": "686-821-0488",
-      "birthday": "1996-01-29",
-      "status": false,
-      "createdAt": 1621283400000,
-      "modifiedAt": 1621528590000
-    },
-    {
-      "id": 7,
-      "firstName": "Carlotta",
-      "lastName": "Chivers",
-      "username": "cchivers6",
-      "email": "cchivers6@ebay.com",
-      "password": "n5hIT4NKk8Q",
-      "avatar": "https://robohash.org/voluptatequasiest.png?size=50x50&set=set1",
-      "gender": "Non-binary",
-      "phone": "428-749-0095",
-      "birthday": "1998-05-19",
-      "status": true,
-      "createdAt": 1614957930000,
-      "modifiedAt": 1614957930000
-    },
-    {
-      "id": 8,
-      "firstName": "Thorpe",
-      "lastName": "Humblestone",
-      "username": "thumblestone7",
-      "email": "thumblestone7@china.com.cn",
-      "password": "iYlKMYJqIy2T",
-      "avatar": "https://robohash.org/voluptasetexplicabo.png?size=50x50&set=set1",
-      "gender": "Bigender",
-      "phone": "722-376-2905",
-      "birthday": "2007-09-24",
-      "status": true,
-      "createdAt": 1613665586000,
-      "modifiedAt": 1613665586000
-    },
-    {
-      "id": 9,
-      "firstName": "Chick",
-      "lastName": "Kynnd",
-      "username": "ckynnd8",
-      "email": "ckynnd8@spotify.com",
-      "password": "cGdnd1HapM",
-      "avatar": "https://robohash.org/commodiexplicaboveritatis.png?size=50x50&set=set1",
-      "gender": "Bigender",
-      "phone": "825-276-2045",
-      "birthday": "2007-03-01",
-      "status": true,
-      "createdAt": 1612782806000,
-      "modifiedAt": 1612782806000
-    },
-    {
-      "id": 10,
-      "firstName": "Alexis",
-      "lastName": "Loughan",
-      "username": "aloughan9",
-      "email": "aloughan9@soundcloud.com",
-      "password": "BUSPoSABA3s",
-      "avatar": "https://robohash.org/suntisteaperiam.png?size=50x50&set=set1",
-      "gender": "Polygender",
-      "phone": "391-273-2238",
-      "birthday": "2000-05-04",
-      "status": true,
-      "createdAt": 1615245193000,
-      "modifiedAt": 1616246055000
+      "modifiedAt": 1615976361000,
+      "rango": "cliente"
     }
   ],
   "products": [
@@ -268,7 +166,7 @@
       "modifiedAt": 1615146960000
     }
   ],
-  "books":[
+  "books": [
     {
       "id": 1,
       "title": "100 años de soledad",
@@ -297,51 +195,87 @@
       "dateRead": "2020-03-22",
       "pageCount": 352
     }
-
   ],
-
-  "Componentes":[
+  "Componentes": [
     {
       "id": 1,
       "name": "Procesador AMD RYZEN 5 3600",
-      "marca": "AMD",
+      "precio": 200,
       "status": true,
-      "precio": 360000
+      "imagen": "https://app.contabilium.com/files/explorer/49089/Productos-Servicios/concepto-11327402.jpg",
+      "cantidad": 10,
+      "modifiedAt": 1720153417713
     },
     {
       "id": 2,
       "name": "Procesador Intel Core i5 10400F ",
-      "marca": "Intel",
-      "status": false,
-      "precio": 250000
+      "precio": 100,
+      "status": true,
+      "imagen": "https://fullh4rd.com.ar/img/productos/1/micro-intel-core-i5-10400f-0.jpg",
+      "cantidad": 0,
+      "modifiedAt": 1720155397582
     },
     {
       "id": 3,
       "name": "Mother ASUS TUF B450M-PLUS II AM4",
-      "marca": "ASUS",
+      "precio": 50,
       "status": true,
-      "precio": 138000
+      "imagen": "https://www.heavenimagenes.com/heavencommerce/73789f5f-970d-4319-82d0-77eea979d9b7/images/v2/ASUS/2104211654132224_02_medium.jpg",
+      "cantidad": "5",
+      "modifiedAt": 1720153488728
     },
     {
       "id": 4,
       "name": "Mother Asrock Z790 PG Lightning",
       "marca": "Asrock",
       "status": true,
-      "precio": 480000
+      "precio": 40,
+      "imagen": "https://www.asrock.com/mb/photo/Z790%20PG%20Lightning(M1).png",
+      "cantidad": 3,
+      "componente": "mother"
     },
     {
       "id": 5,
       "name": "Memoria Team DDR4 16GB (2x8GB) 3200MHz Night Hawk",
-      "marca": "Team",
+      "precio": "40",
       "status": true,
-      "precio": 160000
+      "imagen": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_11557_Memoria_Team_DDR4_16GB__2x8GB__3200MHz_Night_Hawk_RGB_Black_CL16_RGB_Black_f04f26c3-grn.jpg",
+      "componente": "memoriaram",
+      "marca": "Team",
+      "cantidad": 6,
+      "modifiedAt": 1720151772417
     },
     {
       "id": 6,
       "name": "Memoria Patriot Viper DDR4 16B (2x8GB) 3200MHz Steel ",
       "marca": "Patriot",
       "status": false,
-      "precio": 190000
+      "precio": 50,
+      "imagen": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_18244_Memoria_Patriot_Viper_DDR4_16B__2x8GB__3200MHz_Steel_9e81bfd2-grn.jpg",
+      "cantidad": 10,
+      "componente": "memoriaram",
+      "modifiedAt": 1720154722734
+    },
+    {
+      "id": 7,
+      "name": "RTX3060",
+      "precio": 250,
+      "status": true,
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_712097-MLA52698651563_122022-O.webp",
+      "cantidad": 2,
+      "modifiedAt": 1720154745470
+    }
+  ],
+  "compras": [
+    {
+      "id": 1,
+      "name": "RTX3060",
+      "precio": "20000",
+      "cantidadEnCarrito": 1,
+      "firstName": "Salvador",
+      "lastName": "Garcia",
+      "username": "Salvi1",
+      "email": "salvadorgarciaescribano@gmail.com"
     }
   ]
 }

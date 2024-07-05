@@ -145,3 +145,29 @@ app.use(router);
 server.listen(port, () => {
   console.log('Server is running on port ' + port);
 });
+
+
+// Handle POST request for purchases
+app.post('/compras', (req, res) => {
+  const newPurchase = req.body;
+  const currentTime = Date.now();
+  newPurchase.createdAt = currentTime;
+  newPurchase.modifiedAt = currentTime;
+
+  // Load the database
+  db.read().then(() => {
+    const purchases = db.data.compras || [];
+    newPurchase.id = purchases.length ? purchases[purchases.length - 1].id + 1 : 1;
+    purchases.push(newPurchase);
+
+    db.data.compras = purchases;
+
+    db.write().then(() => {
+      res.status(201).json(newPurchase);
+    }).catch((err) => {
+      res.status(500).json({ error: "Error al almacenar la compra" });
+    });
+  }).catch((err) => {
+    res.status(500).json({ error: "Error al leer la base de datos" });
+  });
+});
