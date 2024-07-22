@@ -33,11 +33,11 @@
     },
     {
       "id": 2,
-      "firstName": "Anna",
-      "lastName": "Zak",
-      "username": "annazak12",
-      "email": "annazak12@gmail.com",
-      "password": "annazak12",
+      "firstName": "Ana",
+      "lastName": "Bianco",
+      "username": "AnaBianco22",
+      "email": "anabianco22@gmail.com",
+      "password": "AnaBianco22",
       "avatar": "https://robohash.org/accusantiumminimamagni.png?size=50x50&set=set1",
       "gender": "female",
       "phone": "510-449-7332",
@@ -203,8 +203,8 @@
       "precio": 200,
       "status": true,
       "imagen": "https://app.contabilium.com/files/explorer/49089/Productos-Servicios/concepto-11327402.jpg",
-      "cantidad": 7,
-      "modifiedAt": 1720199604163
+      "cantidad": 10,
+      "modifiedAt": 1721670555969
     },
     {
       "id": 2,
@@ -213,7 +213,7 @@
       "status": true,
       "imagen": "https://fullh4rd.com.ar/img/productos/1/micro-intel-core-i5-10400f-0.jpg",
       "cantidad": 0,
-      "modifiedAt": 1720199063681
+      "modifiedAt": 1720615654604
     },
     {
       "id": 3,
@@ -221,8 +221,8 @@
       "precio": 50,
       "status": true,
       "imagen": "https://www.heavenimagenes.com/heavencommerce/73789f5f-970d-4319-82d0-77eea979d9b7/images/v2/ASUS/2104211654132224_02_medium.jpg",
-      "cantidad": 2,
-      "modifiedAt": 1720199604163
+      "cantidad": 1,
+      "modifiedAt": 1720615681796
     },
     {
       "id": 4,
@@ -236,13 +236,13 @@
     {
       "id": 5,
       "name": "Memoria Team DDR4 16GB (2x8GB) 3200MHz Night Hawk",
-      "precio": "40",
+      "precio": 40,
       "status": true,
       "imagen": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_11557_Memoria_Team_DDR4_16GB__2x8GB__3200MHz_Night_Hawk_RGB_Black_CL16_RGB_Black_f04f26c3-grn.jpg",
       "componente": "memoriaram",
       "marca": "Team",
-      "cantidad": 6,
-      "modifiedAt": 1720198651931
+      "cantidad": 4,
+      "modifiedAt": 1721132319054
     },
     {
       "id": 6,
@@ -250,20 +250,8 @@
       "precio": 50,
       "status": true,
       "imagen": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_18244_Memoria_Patriot_Viper_DDR4_16B__2x8GB__3200MHz_Steel_9e81bfd2-grn.jpg",
-      "cantidad": "10",
-      "modifiedAt": 1720155779122
-    },
-    {
-      "name": "Mother ASUS PRIME B450M-A",
-      "precio": 90,
-      "status": true,
-      "imagen": "https://s3-sa-east-1.amazonaws.com/saasargentina/4d4NFDk7pMIancozaVOe/imagen",
-      "componente": "mother",
-      "marca": "ASUS",
-      "cantidad": 5,
-      "createdAt": 1720198414194,
-      "modifiedAt": 1720198414194,
-      "id": 7
+      "cantidad": 10,
+      "modifiedAt": 1721132323606
     }
   ],
   "compras": [
