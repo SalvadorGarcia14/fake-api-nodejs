@@ -212,8 +212,8 @@
       "precio": 100,
       "status": true,
       "imagen": "https://fullh4rd.com.ar/img/productos/1/micro-intel-core-i5-10400f-0.jpg",
-      "cantidad": 0,
-      "modifiedAt": 1720615654604
+      "cantidad": 1,
+      "modifiedAt": 1735912651720
     },
     {
       "id": 3,
@@ -264,6 +264,18 @@
       "lastName": "Garcia",
       "username": "Salvi1",
       "email": "salvadorgarciaescribano@gmail.com"
+    }
+  ],
+  "productosDestacados": [
+    {
+      "id": 1,
+      "nombre": "Procesador AMD RYZEN 5 3600",
+      "imagen": "https://app.contabilium.com/files/explorer/49089/Productos-Servicios/concepto-11327402.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Mother ASUS TUF B450M-PLUS II AM4",
+      "imagen": "https://www.heavenimagenes.com/heavencommerce/73789f5f-970d-4319-82d0-77eea979d9b7/images/v2/ASUS/2104211654132224_02_medium.jpg"
     }
   ]
 }
