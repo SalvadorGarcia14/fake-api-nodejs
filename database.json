@@ -203,8 +203,8 @@
       "precio": 200,
       "status": true,
       "imagen": "https://app.contabilium.com/files/explorer/49089/Productos-Servicios/concepto-11327402.jpg",
-      "cantidad": 10,
-      "modifiedAt": 1721670555969
+      "cantidad": 9,
+      "modifiedAt": 1784296639455
     },
     {
       "id": 2,
@@ -212,8 +212,8 @@
       "precio": 100,
       "status": true,
       "imagen": "https://fullh4rd.com.ar/img/productos/1/micro-intel-core-i5-10400f-0.jpg",
-      "cantidad": 1,
-      "modifiedAt": 1735912651720
+      "cantidad": 0,
+      "modifiedAt": 1784296639457
     },
     {
       "id": 3,
@@ -242,7 +242,7 @@
       "componente": "memoriaram",
       "marca": "Team",
       "cantidad": 4,
-      "modifiedAt": 1721132319054
+      "modifiedAt": 1784293251864
     },
     {
       "id": 6,
@@ -251,7 +251,7 @@
       "status": true,
       "imagen": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_18244_Memoria_Patriot_Viper_DDR4_16B__2x8GB__3200MHz_Steel_9e81bfd2-grn.jpg",
       "cantidad": 10,
-      "modifiedAt": 1721132323606
+      "modifiedAt": 1784293930725
     }
   ],
   "compras": [
@@ -264,6 +264,34 @@
       "lastName": "Garcia",
       "username": "Salvi1",
       "email": "salvadorgarciaescribano@gmail.com"
+    },
+    {
+      "items": [
+        {
+          "id": 1,
+          "name": "Procesador AMD RYZEN 5 3600",
+          "precio": 200,
+          "status": true,
+          "imagen": "https://app.contabilium.com/files/explorer/49089/Productos-Servicios/concepto-11327402.jpg",
+          "cantidad": 10,
+          "modifiedAt": 1721670555969,
+          "cantidadEnCarrito": 1
+        },
+        {
+          "id": 2,
+          "name": "Procesador Intel Core i5 10400F ",
+          "precio": 100,
+          "status": true,
+          "imagen": "https://fullh4rd.com.ar/img/productos/1/micro-intel-core-i5-10400f-0.jpg",
+          "cantidad": 1,
+          "modifiedAt": 1735912651720,
+          "cantidadEnCarrito": 1
+        }
+      ],
+      "total": 300,
+      "createdAt": 1784296639415,
+      "modifiedAt": 1784296639415,
+      "id": 2
     }
   ],
   "productosDestacados": [
